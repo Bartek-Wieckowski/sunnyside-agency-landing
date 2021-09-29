@@ -134,9 +134,9 @@ img {
 
 /* --**HEADER**-- */
 .header {
-    background-image: url(./images/mobile/image-header.jpg);
+    background-image: url(../images/mobile/image-header.jpg);
     @media screen and (min-width: 768px) {
-        background-image: url(./images/desktop/image-header.jpg);
+        background-image: url(../images/desktop/image-header.jpg);
     }
     background-position: center center;
     background-repeat: no-repeat;
@@ -361,9 +361,9 @@ img {
 .graphic {
     &__image1 {
         height: 100vh;
-        background-image: url(./images/mobile/image-graphic-design.jpg);
+        background-image: url(../images/mobile/image-graphic-design.jpg);
         @media screen and (min-width: 768px) {
-            background-image: url(./images/desktop/image-graphic-design.jpg);
+            background-image: url(../images/desktop/image-graphic-design.jpg);
         }
         background-position: center center;
         background-repeat: no-repeat;
@@ -389,9 +389,9 @@ img {
     }
     &__image2 {
         height: 100vh;
-        background-image: url(./images/mobile/image-photography.jpg);
+        background-image: url(../images/mobile/image-photography.jpg);
         @media screen and (min-width: 768px) {
-            background-image: url(./images/desktop/image-photography.jpg);
+            background-image: url(../images/desktop/image-photography.jpg);
         }
         background-position: center center;
         background-repeat: no-repeat;
